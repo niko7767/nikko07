@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(0, 255, 55, 0.733);
+}
+.container{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    
+    background-color:white;
+    height: 500px;
+    width: 350px;
+     border-style: solid;
+      border-width: 1px;
+     border-radius:20px;
+      border-color:black;
+      display: inline-block;
+      flex-direction: column;  
+    margin-top: 80px;  
+    display: block;
+}
+div h1{
+    display: flexbox;
+    justify-content: center;
+}
+input{
+    margin-top: 20px;
+    height: 30px;
+}
+.input{
